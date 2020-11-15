@@ -2,6 +2,7 @@
 *.png
 *.pdf
 .cache/
+.cache_bk
 .ipynb_checkpoints/
 data/
 model/
