@@ -8,3 +8,4 @@ data/
 model/
 best/
 best.rar
+*.h5
