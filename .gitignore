@@ -12,3 +12,4 @@ best/
 best.rar
 *.h5
 !*.md
+!*train_attr_*
