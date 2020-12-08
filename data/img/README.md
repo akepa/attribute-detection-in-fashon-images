@@ -1,0 +1,1 @@
+Directorio raiz de las imágenes

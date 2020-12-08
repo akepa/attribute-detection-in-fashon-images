@@ -4,8 +4,11 @@
 .cache/
 .cache_bk
 .ipynb_checkpoints/
-data/
+data/img/*
+data/anno_fine/*
+data/anno_coarse/*
 model/
 best/
 best.rar
 *.h5
+!*.md
